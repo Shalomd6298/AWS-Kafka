@@ -17,5 +17,5 @@ Data Visualizations: AWS QuickSight is used for data analytics and visualization
 
 Future Possibilities: Potential of AWS Glue Crawler and Athena. These components can be used for enhanced data manipulation and querying capabilities. 
 
-Medium Blog : 
+Medium Blog : https://medium.com/@shalomd498/building-a-scalable-and-real-time-data-pipeline-end-to-end-project-with-apache-kafka-aws-and-data-263fb0ee2928
 
