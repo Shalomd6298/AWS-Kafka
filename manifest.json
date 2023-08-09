@@ -1,0 +1,12 @@
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": [
+                "https://aws-kafka-shalom.s3.us-east-2.amazonaws.com"        
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "JSON"
+    }
+}
