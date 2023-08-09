@@ -1,4 +1,8 @@
-# Process
+# Building a Scalable and Real-time Data Pipeline: End to End Project with Apache Kafka, AWS and Data Visualization
+
+
+<img width="715" alt="Screenshot 2023-08-09 at 4 47 44 PM" src="https://github.com/Shalomd6298/AWS-Kafka/assets/66585131/f1458a64-255c-4a49-ac89-81f9a10c35c6">
+
 
 Data Sourcing: Obtain data from a CSV file. 
 
